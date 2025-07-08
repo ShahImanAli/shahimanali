@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hi 👋, I'm Shah Iman Ali
-## <br>A passionate Software Engineering Student || Frontend Developer || Aspiring Full-Stack Engineer from Pakistan<br>
+## <br>Software Engineering Student || Frontend Developer || Aspiring Full-Stack Engineer from Pakistan<br>
 <br>📧 Email Me 👉 ✉️ shahimanali1211@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: Responsive and dynamic web applications using React JS, JavaScript, and Tailwind CSS<br>🌱 I’m currently learning:  Modern frontend development with a focus on React JS and responsive UI design<br>👯 I’m looking to collaborate on: Innovative web projects focused on frontend excellence and seamless user experience<br>🤔 I’m looking for help with: Gaining industry experience through internships or entry-level roles<br>💬 Ask me about: Frontend development, React JS, Tailwind CSS<br>📫 How to reach me: shahimanali1211@gmail.com <br>😄 Pronouns: He/Him<br><br>
 
 

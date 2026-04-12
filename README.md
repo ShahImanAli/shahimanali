@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hi 👋, I'm Shah Iman Ali
-## <br>A Passionate Software Engineering Student || Aspiring Full-Stack Engineer from Pakistan<br>
+## <br>Turning ideas into Full-Stack realities || MERN Stack Developer from Pakistan 🇵🇰<br>
 <br>📧 Email Me 👉 ✉️ shahimanali1211@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I'm currently working on: Full-stack web applications using the MERN Stack (MongoDB, Express.js, React JS, Node.js)<br>🌱 I'm currently learning: Backend development, REST API design, JWT authentication & session management, and cloud deployment<br>👯 I'm looking to collaborate on: Innovative full-stack web projects focused on clean architecture, scalable APIs, and seamless user experience<br>🤔 I'm looking for help with: Gaining industry experience through internships or entry-level full-stack roles<br>💬 Ask me about: Full-Stack Development, MERN Stack, React JS, Node.js, REST APIs, MongoDB, Tailwind CSS<br>📫 How to reach me: shahimanali1211@gmail.com <br>😄 Pronouns: He/Him<br><br>
 
 ## 🌐 Socials:
@@ -10,7 +10,7 @@
 
 **🎨 Frontend**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 **⚙️ Backend**
 
@@ -25,12 +25,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShahImanAli&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ShahImanAli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShahImanAli&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahImanAli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShahImanAli&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ShahImanAli&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4)
 
 ## 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ShahImanAli&theme=react-dark&bg_color=141321&color=a9fef7&line=626efa&point=f8d847&area=true&hide_border=false)
@@ -39,7 +39,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShahImanAli&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ShahImanAli&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShahImanAli&icon=0&color=0)](https://visitcount.itsvg.in)

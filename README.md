@@ -25,15 +25,18 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShahImanAli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShahImanAli&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahImanAli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+> ⚠️ **Note:** Stats cards require your repos to be **public**. If cards still appear empty, go to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy your own instance with your GitHub token for full private repo support.
+
+![](https://github-readme-stats.vercel.app/api?username=ShahImanAli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://streak-stats.demolab.com?user=ShahImanAli&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahImanAli&theme=radical&hide_border=false&layout=compact&langs_count=8)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShahImanAli&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4)
+![](https://github-profile-trophy.vercel.app/?username=ShahImanAli&theme=radical&no-frame=true&margin-w=4&margin-h=4)
 
 ## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=ShahImanAli&theme=react-dark&bg_color=141321&color=a9fef7&line=626efa&point=f8d847&area=true&hide_border=false)
+![](https://github-readme-activity-graph.vercel.app/graph?username=ShahImanAli&theme=react-dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

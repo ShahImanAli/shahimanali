@@ -29,10 +29,9 @@
 ![](https://streak-stats.demolab.com?user=ShahImanAli&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahImanAli&theme=radical&hide_border=false&layout=compact&langs_count=8)
 
+
 ## 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/ShahImanAli/ShahImanAli/output/github-contribution-grid-snake-dark.svg)
-
-> 💡 To enable the snake animation, create a GitHub Action in your profile repo. See: [Platane/snk](https://github.com/Platane/snk)
 
 ## 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ShahImanAli&theme=react-dark&hide_border=false)
@@ -40,8 +39,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ShahImanAli&repo=ShahImanAli&theme=radical)](https://github.com/ShahImanAli?tab=repositories)
+### 🔝 Featured Projects
+[![LMS](https://github-readme-stats.vercel.app/api/pin/?username=ShahImanAli&repo=LMS&theme=radical)](https://github.com/ShahImanAli/LMS)
+[![Teachers-Forum](https://github-readme-stats.vercel.app/api/pin/?username=ShahImanAli&repo=Teachers-Forum&theme=radical)](https://github.com/ShahImanAli/Teachers-Forum)
+[![Anonymous-Feedback](https://github-readme-stats.vercel.app/api/pin/?username=ShahImanAli&repo=Anonymous-Feedback&theme=radical)](https://github.com/ShahImanAli/Anonymous-Feedback)
+[![Blog-App-Using-AppWrite](https://github-readme-stats.vercel.app/api/pin/?username=ShahImanAli&repo=Blog-App-Using-AppWrite&theme=radical)](https://github.com/ShahImanAli/Blog-App-Using-AppWrite)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShahImanAli&icon=0&color=0)](https://visitcount.itsvg.in)

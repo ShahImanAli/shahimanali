@@ -25,15 +25,14 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-
-> ⚠️ **Note:** Stats cards require your repos to be **public**. If cards still appear empty, go to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy your own instance with your GitHub token for full private repo support.
-
 ![](https://github-readme-stats.vercel.app/api?username=ShahImanAli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://streak-stats.demolab.com?user=ShahImanAli&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahImanAli&theme=radical&hide_border=false&layout=compact&langs_count=8)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShahImanAli&theme=radical&no-frame=true&margin-w=4&margin-h=4)
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/ShahImanAli/ShahImanAli/output/github-contribution-grid-snake-dark.svg)
+
+> 💡 To enable the snake animation, create a GitHub Action in your profile repo. See: [Platane/snk](https://github.com/Platane/snk)
 
 ## 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ShahImanAli&theme=react-dark&hide_border=false)
@@ -42,7 +41,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShahImanAli&limit=5&theme=radical&combine_all_yearly_contributions=true)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ShahImanAli&repo=ShahImanAli&theme=radical)](https://github.com/ShahImanAli?tab=repositories)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShahImanAli&icon=0&color=0)](https://visitcount.itsvg.in)

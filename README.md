@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hi 👋, I'm Shah Iman Ali
-## <br>Turning ideas into Full-Stack realities || MERN Stack Developer from Pakistan 🇵🇰<br>
+## <br>Turning Ideas Into Full-Stack Realities || MERN Stack Developer From Pakistan 🇵🇰<br>
 <br>📧 Email Me 👉 ✉️ shahimanali1211@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I'm currently working on: Full-stack web applications using the MERN Stack (MongoDB, Express.js, React JS, Node.js)<br>🌱 I'm currently learning: Backend development, REST API design, JWT authentication & session management, and cloud deployment<br>👯 I'm looking to collaborate on: Innovative full-stack web projects focused on clean architecture, scalable APIs, and seamless user experience<br>🤔 I'm looking for help with: Gaining industry experience through internships or entry-level full-stack roles<br>💬 Ask me about: Full-Stack Development, MERN Stack, React JS, Node.js, REST APIs, MongoDB, Tailwind CSS<br>📫 How to reach me: shahimanali1211@gmail.com <br>😄 Pronouns: He/Him<br><br>
 
 ## 🌐 Socials:
@@ -40,10 +40,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Featured Projects
-[![LMS](https://github-readme-stats.vercel.app/api/pin/?username=ShahImanAli&repo=LMS&theme=radical)](https://github.com/ShahImanAli/LMS)
-[![Teachers-Forum](https://github-readme-stats.vercel.app/api/pin/?username=ShahImanAli&repo=Teachers-Forum&theme=radical)](https://github.com/ShahImanAli/Teachers-Forum)
-[![Anonymous-Feedback](https://github-readme-stats.vercel.app/api/pin/?username=ShahImanAli&repo=Anonymous-Feedback&theme=radical)](https://github.com/ShahImanAli/Anonymous-Feedback)
-[![Blog-App-Using-AppWrite](https://github-readme-stats.vercel.app/api/pin/?username=ShahImanAli&repo=Blog-App-Using-AppWrite&theme=radical)](https://github.com/ShahImanAli/Blog-App-Using-AppWrite)
+
+[![LMS](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ShahImanAli&repo=LMS&theme=radical)](https://github.com/ShahImanAli/LMS)
+[![Teachers-Forum](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ShahImanAli&repo=Teachers-Forum&theme=radical)](https://github.com/ShahImanAli/Teachers-Forum)
+[![Anonymous-Feedback](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ShahImanAli&repo=Anonymous-Feedback&theme=radical)](https://github.com/ShahImanAli/Anonymous-Feedback)
+[![Blog-App-Using-AppWrite](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ShahImanAli&repo=Blog-App-Using-AppWrite&theme=radical)](https://github.com/ShahImanAli/Blog-App-Using-AppWrite)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShahImanAli&icon=0&color=0)](https://visitcount.itsvg.in)
